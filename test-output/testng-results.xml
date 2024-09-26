@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-26T23:49:12 IST" name="Default suite" finished-at="2024-09-26T23:49:45 IST" duration-ms="32468">
+    <groups>
+    </groups>
+    <test started-at="2024-09-26T23:49:12 IST" name="Default test" finished-at="2024-09-26T23:49:45 IST" duration-ms="32468">
+      <class name="testCaseClass.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCaseClass.LoginPageTest@233795b6]" started-at="2024-09-26T23:49:12 IST" name="setUp" finished-at="2024-09-26T23:49:17 IST" duration-ms="4107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="any()[pri:1, instance:testCaseClass.LoginPageTest@233795b6]" started-at="2024-09-26T23:49:17 IST" name="any" finished-at="2024-09-26T23:49:18 IST" duration-ms="1823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- any -->
+        <test-method signature="ClickTelegramLoginBtn()[pri:2, instance:testCaseClass.LoginPageTest@233795b6]" started-at="2024-09-26T23:49:18 IST" name="ClickTelegramLoginBtn" finished-at="2024-09-26T23:49:42 IST" duration-ms="23300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickTelegramLoginBtn -->
+        <test-method signature="LearnMoreAboutHubzText()[pri:4, instance:testCaseClass.LoginPageTest@233795b6]" started-at="2024-09-26T23:49:42 IST" name="LearnMoreAboutHubzText" finished-at="2024-09-26T23:49:44 IST" duration-ms="2194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LearnMoreAboutHubzText -->
+        <test-method signature="tryhubznow()[pri:5, instance:testCaseClass.LoginPageTest@233795b6]" started-at="2024-09-26T23:49:44 IST" name="tryhubznow" finished-at="2024-09-26T23:49:45 IST" duration-ms="894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryhubznow -->
+      </class> <!-- testCaseClass.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
